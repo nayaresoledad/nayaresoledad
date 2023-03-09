@@ -1,10 +1,11 @@
 <h1 align="center">Hi :leopard: , I'm Nayare Soledad Montes Gavilán</h1>
-<h3 align="center">A passionate data scientist and AI developper from Spain.</h3>
 <h3 align="center">My name is Nayare and I'm currently working as Data Scientist intern in Factoría F5 at Madrid, Spain. I'm interested in data science and AI development, with experience in programming languages oriented to data, with knowledge in design and edition</h3>
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/MJo2EdkcL8AAAAAd/kingdom-hearts.gif" style="width:100%;height:auto;" />
 </div>
+
+<div class="tenor-gif-embed" data-postid="10623061" data-share-method="host" data-aspect-ratio="1.77515" data-width="100%"><a href="https://tenor.com/view/kingdom-hearts-kairi-ending-gif-10623061">Kingdom Hearts GIF</a>from <a href="https://tenor.com/search/kingdom-gifs">Kingdom GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaresoledad&label=Profile%20views&color=0e75b6&style=flat" alt="nayaresoledad" /> </p>
 
