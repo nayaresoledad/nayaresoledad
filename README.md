@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayare Soledad Montes Gavilán</h1>
+<h1 align="center">Hi :leopard: , I'm Nayare Soledad Montes Gavilán</h1>
 <h3 align="center">A passionate data scientist and AI developper from Spain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaresoledad&label=Profile%20views&color=0e75b6&style=flat" alt="nayaresoledad" /> </p>
