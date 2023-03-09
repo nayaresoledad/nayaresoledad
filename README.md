@@ -4,8 +4,7 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/MJo2EdkcL8AAAAAd/kingdom-hearts.gif" style="width:100%;height:auto;" />
 </div>
-
-<div class="tenor-gif-embed" data-postid="10623061" data-share-method="host" data-aspect-ratio="1.77515" data-width="100%"><a href="https://tenor.com/view/kingdom-hearts-kairi-ending-gif-10623061">Kingdom Hearts GIF</a>from <a href="https://tenor.com/search/kingdom-gifs">Kingdom GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Alt Text](https://c.tenor.com/MJo2EdkcL8AAAAAd/kingdom-hearts.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaresoledad&label=Profile%20views&color=0e75b6&style=flat" alt="nayaresoledad" /> </p>
 
