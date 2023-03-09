@@ -3,7 +3,7 @@
 <h3 align="center">My name is Nayare and I'm currently working as Data Scientist intern in Factoría F5 at Madrid, Spain. I'm interested in data science and AI development, with experience in programming languages oriented to data, with knowledge in design and edition</h3>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/MJo2EdkcL8AAAAAd/kingdom-hearts.gif" style="width:100%;height:auto;" />
+  <img src="https://c.tenor.com/MJo2EdkcL8AAAAAd/kingdom-hearts.gif" style="width:100%;height:auto;" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayaresoledad&label=Profile%20views&color=0e75b6&style=flat" alt="nayaresoledad" /> </p>
